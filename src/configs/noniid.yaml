@@ -1,0 +1,7 @@
+dataset_typ: noniid
+nx: 10
+ny: 5
+n_dims_in: 5
+n_dims_out: 5
+n_positions: 50
+n_noise: 5

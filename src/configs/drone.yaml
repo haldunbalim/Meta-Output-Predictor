@@ -1,0 +1,4 @@
+dataset_typ: drone
+n_dims_in: 5
+n_dims_out: 3
+n_positions: 50
